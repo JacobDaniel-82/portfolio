@@ -84,7 +84,7 @@ Ideal for drilling down and filtering specific combinations.
 
 ## 🔗 Related Links
 
-- [View Full Portfolio](../portfolio)
+- [View Full Portfolio](./portfolio)
 
 ---
 
