@@ -31,8 +31,7 @@ A Power BI dashboard that visualizes key sales metrics like total sales, profit,
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](#) *(Add link later)*
-- 🧠 [Kaggle](#) *(Optional)*
+- 🔗 [LinkedIn](#www.linkedin.com/in/jacobdanielr) 
 - 📬 Reach out for collaborations or roles!
 
 ---
