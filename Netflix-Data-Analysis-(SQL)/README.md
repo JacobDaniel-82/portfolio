@@ -16,7 +16,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## 📊 Dataset
 
-- **Source**: Kaggle  
+- **Source**: [Movies Dataset](netflix_titles.xlsx)  
 - **Schema Includes**:  
   `show_id`, `type`, `title`, `director`, `casts`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
