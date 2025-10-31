@@ -14,6 +14,19 @@ Hi, I’m Jacob Daniel R — a Computer Science student passionate about uncover
 
 ## 📂 Featured Project
 
+### 🎬 Netflix Content Analysis
+
+**Tools Used:** SQL
+**Project Overview:**
+A SQL-based analysis of Netflix’s content catalog to explore trends across genres, release years, and content types. The project focuses on uncovering patterns in movie vs. TV show distribution, country-wise trends, and identifying the most frequent directors and actors.
+**Key Features:**
+- SQL queries for deep data exploration and filtering
+- Analysis of movie vs. TV show proportions
+- Insights on popular genres, release years, and countries
+- Aggregated results highlighting key content patterns
+
+[🔗 View Project Folder](./Netflix-Data-Analysis-(SQL))
+
 ### 📈 Sales Performance Analysis Dashboard
 
 **Tools Used:** Power BI, SQL  
