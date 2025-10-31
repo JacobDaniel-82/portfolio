@@ -28,6 +28,20 @@ An end-to-end data project that identifies customers most likely to churn using 
 
 [🔗 View Project Folder](./Customer-Churn-Analysis-&-Prediction)
 
+### 📱 App Store Data Analysis  
+
+**Tools Used:** Python (pandas, matplotlib, seaborn)  
+**Project Overview:**  
+A data analysis project exploring app data from the Google Play Store to uncover insights into ratings, installs, and pricing strategies. Focused on understanding key factors influencing app success.  
+
+**Key Features:**  
+- Data cleaning and preprocessing using pandas  
+- Visualization of app ratings, installs, and categories  
+- Correlation analysis between price, size, and popularity  
+- Actionable insights for app developers and marketers  
+
+[🔗 View Project Folder](./App-Store-Data-Analysis)
+
 ### 🎬 Netflix Content Analysis
 
 **Tools Used:** SQL
