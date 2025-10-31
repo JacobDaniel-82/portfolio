@@ -48,7 +48,11 @@ This analysis provides a detailed understanding of Netflix's global content tren
 
 ---
 
-## 👤 Author – *Jacob Daniel R*
-This project is part of my portfolio, showcasing practical SQL skills essential for Data Analyst roles.  
-Feel free to connect for questions, feedback, or collaboration!
+## 🔗 Related Links
+
+- [View Full Portfolio](../README.md)
+
+---
+
+*Created by Jacob Daniel R | 2025*
 
