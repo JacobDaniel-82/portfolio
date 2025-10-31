@@ -14,6 +14,20 @@ Hi, I’m Jacob Daniel R — a Computer Science student passionate about uncover
 
 ## 📂 Featured Project
 
+### 🍎 Apple Freshness Detection  
+
+**Tools Used:** TensorFlow, Keras, MobileNetV2  
+**Project Overview:**  
+A deep learning image classification project built to detect the freshness of apples using transfer learning. The model leverages MobileNetV2 for efficient feature extraction, achieving high accuracy with limited data.  
+
+**Key Features:**  
+- Image preprocessing and augmentation for robust training  
+- Transfer learning using MobileNetV2 architecture  
+- Model evaluation with accuracy and confusion matrix  
+- Deployed model ready for real-time prediction  
+
+[🔗 View Project Folder](./Apple-Freshness-Detection)
+
 ### 📉 Customer Churn Analysis & Prediction
 
 **Tools Used:** SQL, Python, Power BI  
