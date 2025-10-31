@@ -14,6 +14,20 @@ Hi, I’m Jacob Daniel R — a Computer Science student passionate about uncover
 
 ## 📂 Featured Project
 
+### 📉 Customer Churn Analysis & Prediction
+
+**Tools Used:** SQL, Python, Power BI  
+**Project Overview:**  
+An end-to-end data project that identifies customers most likely to churn using machine learning and data visualization. The workflow includes SQL-based data cleaning, Python-based analysis and model building, and Power BI dashboards to present actionable business insights.  
+
+**Key Features:**  
+- SQL queries for data extraction and preparation  
+- EDA and feature engineering using Python  
+- Machine learning model (Random Forest) to predict churn risk  
+- Power BI dashboard visualizing churn trends and retention metrics  
+
+[🔗 View Project Folder](./Customer-Churn-Analysis-&-Prediction)
+
 ### 🎬 Netflix Content Analysis
 
 **Tools Used:** SQL
