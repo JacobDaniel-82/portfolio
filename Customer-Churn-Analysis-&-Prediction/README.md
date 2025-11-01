@@ -1,44 +1,88 @@
-# 📉 Customer Churn Analysis & Prediction
+# 📊 Customer Churn Analysis & Prediction
 
-**Tools Used:** SQL, Python, Power BI  
-**Project Overview:**  
-End-to-end churn analysis and prediction pipeline that combines SQL data prep, Power BI dashboards for business insights, and a Random Forest model (Python / Jupyter) to predict customers at risk of churning. The project contains data cleaning, feature engineering (Power Query / SQL), exploratory analysis, model training/evaluation, and production-ready prediction exports.
+### Tools Used: Power BI | SQL | Python (Machine Learning)
+
+---
+
+## 🧩 Overview
+This project focuses on analyzing and predicting **customer churn** — identifying customers who are likely to leave a company’s service.  
+The analysis was done using **Power BI**, **SQL**, and **Python**, combining data visualization, querying, and predictive modeling to uncover churn trends and business insights.
 
 ---
 
 ## 🎯 Objective
-- Identify customers likely to churn and enable proactive retention actions.
-- Provide business-facing dashboards showing churn trends, revenue impact, and segment-level risk.
-- Deliver a reproducible ML pipeline to predict churn and export predicted churners for downstream action.
+- To understand **key factors** influencing customer churn.  
+- To build a **machine learning model** that predicts customer churn probability.  
+- To create an **interactive Power BI dashboard** visualizing churn metrics and customer behavior.
 
 ---
 
-## 🗂 Folder structure (recommended)
-
+## 🗂️ Folder Structure
+Customer-Churn-Analysis-&-Prediction/
+│
+├── Data & Resources/
+│ ├── Background/ → Dashboard backgrounds used in Power BI
+│ ├── Codes, Queries & DAX/ → SQL queries, Python scripts, and DAX formulas
+│ ├── Images/ → Supporting visuals for reports
+│ ├── ML model/ → Machine learning scripts & model files
+│ ├── SQL/ → Query files used for data exploration
+│ └── Customer_Data.csv → Main dataset used in the project
+│
+├── Churn Analysis.pdf → Project report & visual insights
+├── Save.pbix → Power BI dashboard file
+└── README.md → Project documentation
 
 ---
 
-## 📥 Data
-- Primary file: `data/customer-data.csv` (or `Prediction_Data.xlsx` in your local workflow).  
-- Views created for reporting & modeling:
-  - `vw_ChurnData` → customers with statuses `Churned` or `Stayed` (used for model)
-  - `vw_JoinData` → customers with status `Joined` (used for inference / joiner analysis)
+## ⚙️ Steps & Workflow
 
-> If you prefer the README to link to an external data source, add a link under `data/README` or replace the file with a link path (e.g., `data/README - link to data source`).
+### 1. **Data Exploration (SQL)**
+- Imported `Customer_Data.csv` and performed SQL queries for cleaning, filtering, and initial insights.  
+- Explored churn distribution, customer demographics, tenure, and service usage.
+
+### 2. **Machine Learning Model (Python)**
+- Processed data using pandas and scikit-learn.  
+- Built classification models such as **Random Forest** and **Logistic Regression**.  
+- Evaluated accuracy and identified key churn-driving features (e.g., contract type, monthly charges, customer tenure).
+
+### 3. **Visualization (Power BI)**
+- Created interactive dashboards showing:
+  - **Churn Rate** by customer segment
+  - **Demographic patterns** (gender, age, region)
+  - **Service usage & tenure trends**
+  - **Predicted churn probability** from ML output  
+- Designed using custom visuals and background templates for professional presentation.
 
 ---
 
-## 🔧 Tools & Libraries
-- **SQL** — data staging, null handling, production insert, views for BI/modeling  
-- **Power BI** — dashboards, Power Query transformations, measures & reports  
-- **Python (Jupyter)** — pandas, numpy, matplotlib, seaborn, scikit-learn, joblib
+## 📈 Key Insights
+- Customers with **month-to-month contracts** had the highest churn rates.  
+- **High monthly charges** strongly correlated with customer loss.  
+- **Longer-tenure customers** were significantly less likely to churn.  
+- The **ML model achieved ~85% accuracy** in predicting churn probability.  
+- Business recommendation: offer targeted discounts or loyalty programs for short-term, high-charge customers.
 
-Suggested Python packages:
-```text
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-joblib
-openpyxl  # if you use Excel files
+---
+
+## 📊 Results
+- Developed a **fully interactive Power BI dashboard** for real-time churn monitoring.  
+- Built a **predictive ML pipeline** to classify churn-prone customers.  
+- Generated actionable business insights improving customer retention strategies.
+
+---
+
+## 📁 Access the Files
+- **Dataset:** [`Customer_Data.csv`](./Data & Resources/Customer_Data.csv)  
+- **Power BI Dashboard:** [`save.pbix`](./save.pbix)  
+- **Project Report (PDF):** [`Churn Analysis.pdf`](./Churn Analysis.pdf)
+
+---
+
+## 🧠 Learnings
+- End-to-end integration of **SQL, Python, and Power BI** for business analytics.  
+- Learned to clean and preprocess large datasets for predictive analysis.  
+- Improved understanding of customer behavior, KPIs, and visual storytelling in data.
+
+---
+
+
