@@ -5,12 +5,14 @@
 ---
 
 ## 🧩 Overview
+
 This project focuses on analyzing and predicting **customer churn** — identifying customers who are likely to leave a company’s service.  
 The analysis was done using **Power BI**, **SQL**, and **Python**, combining data visualization, querying, and predictive modeling to uncover churn trends and business insights.
 
 ---
 
 ## 🎯 Objective
+
 - To understand **key factors** influencing customer churn.  
 - To build a **machine learning model** that predicts customer churn probability.  
 - To create an **interactive Power BI dashboard** visualizing churn metrics and customer behavior.
@@ -18,9 +20,11 @@ The analysis was done using **Power BI**, **SQL**, and **Python**, combining dat
 ---
 
 ## 🗂️ Folder Structure
+
 Customer-Churn-Analysis-&-Prediction/
 │
 ├── Data & Resources/
+
 │ ├── Background/ → Dashboard backgrounds used in Power BI
 │ ├── Codes, Queries & DAX/ → SQL queries, Python scripts, and DAX formulas
 │ ├── Images/ → Supporting visuals for reports
