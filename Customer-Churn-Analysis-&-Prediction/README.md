@@ -75,9 +75,9 @@ Customer-Churn-Analysis-&-Prediction/
 ---
 
 ## 📁 Access the Files
-- **Dataset:** [`Customer_Data.csv`](./Data & Resources/Customer_Data.csv)  
+- **Dataset:** [`Customer_Data.csv`](./Data-&-Resources/Customer_Data.csv)  
 - **Power BI Dashboard:** [`save.pbix`](./save.pbix)  
-- **Project Report (PDF):** [`Churn Analysis.pdf`](./Churn Analysis.pdf)
+- **Project Report (PDF):** [`Churn Analysis.pdf`](./Churn_Analysis.pdf)
 
 ---
 
