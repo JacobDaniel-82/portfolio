@@ -21,7 +21,7 @@ The analysis was done using **Power BI**, **SQL**, and **Python**, combining dat
 
 ## 🗂️ Folder Structure
 
-Customer-Churn-Analysis-&-Prediction/
+Customer-Churn-Analysis-&-Prediction/  
 │
 ├── Data & Resources/
 
