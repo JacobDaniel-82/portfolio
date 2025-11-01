@@ -24,7 +24,6 @@ The analysis was done using **Power BI**, **SQL**, and **Python**, combining dat
 Customer-Churn-Analysis-&-Prediction/  
 │
 ├── Data & Resources/
-
 │ ├── Background/ → Dashboard backgrounds used in Power BI
 │ ├── Codes, Queries & DAX/ → SQL queries, Python scripts, and DAX formulas
 │ ├── Images/ → Supporting visuals for reports
