@@ -22,17 +22,17 @@ The analysis was done using **Power BI**, **SQL**, and **Python**, combining dat
 ## 🗂️ Folder Structure
 
 Customer-Churn-Analysis-&-Prediction/  
-│
+│  
 ├── Data & Resources/  
 │ ├── Background/ → Dashboard backgrounds used in Power BI  
 │ ├── Codes, Queries & DAX/ → SQL queries, Python scripts, and DAX formulas  
-│ ├── Images/ → Supporting visuals for reports
-│ ├── ML model/ → Machine learning scripts & model files
-│ ├── SQL/ → Query files used for data exploration
-│ └── Customer_Data.csv → Main dataset used in the project
-│
-├── Churn Analysis.pdf → Project report & visual insights
-├── Save.pbix → Power BI dashboard file
+│ ├── Images/ → Supporting visuals for reports  
+│ ├── ML model/ → Machine learning scripts & model files  
+│ ├── SQL/ → Query files used for data exploration  
+│ └── Customer_Data.csv → Main dataset used in the project  
+│  
+├── Churn Analysis.pdf → Project report & visual insights  
+├── Save.pbix → Power BI dashboard file  
 └── README.md → Project documentation
 
 ---
