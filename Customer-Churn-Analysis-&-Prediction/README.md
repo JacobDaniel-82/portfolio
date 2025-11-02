@@ -88,4 +88,12 @@ Customer-Churn-Analysis-&-Prediction/
 
 ---
 
+## 🔗 Related Links
+
+- [View Full Portfolio](../README.md)
+
+---
+
+*Created by Jacob Daniel R | 2025*
+
 
