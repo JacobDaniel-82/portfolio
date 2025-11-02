@@ -113,27 +113,13 @@ The model achieved an accuracy of **99%** on the test dataset, demonstrating its
 
 You can load the model from the `applemodel.h5` file and use it for predictions in the web app.
 
+---
 
-## Author & Acknowledgments
+## 🔗 Related Links
 
-This project was developed as part of the Naan Mudhalvan – GUVI OpenCV & Deep Learning Program.
+- [View Full Portfolio](../README.md)
 
-## Members:
+---
 
-**1**. [Jacob Daniel R](https://github.com/jacob-daniel-clg) 
-       - [LinkedIn Profile](https://www.linkedin.com/in/jacobdanielr)
-       - Email: [jacobdanielr82@gmail.com]
-
-**2**. [Akhil M A](https://www.github.com/Akhilma2005) 
-
-**3**. [Abin R S](https://www.github.com/abin-manu)
-
-**4**. [Babith](https://www.github.com/babith-del)
-
-Feel free to reach out for any inquiries or collaboration opportunities!
-
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+*Created by Jacob Daniel R | 2025*
 
