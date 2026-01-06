@@ -58,5 +58,11 @@ This project analyzes app store data to extract insights that can help developer
 
 ---
 
-## Author
-Jacob Daniel R
+## 🔗 Related Links
+
+- [View Full Portfolio](../README.md)
+
+---
+
+*Created by Jacob Daniel R | 2025*
+
