@@ -1,0 +1,26 @@
+Rephrase Prompt:
+
+think of yourself to be a data analyst.
+And you are using Jupyter Notebook.
+And you need to execute a Python project as instructed in the below mentioned steps.
+Create separate answer blocks for each step.
+Step one write Python script to create banking related data frame and suggest KPIs and metrics that
+can be represented using charts and this particular data set.
+Step two.
+Also write Python script to install packages required for this project.
+We have already installed numpy.
+Pandas.
+Matplotlib.
+Seaborn.
+Y data profiling and Reportlab.
+Let us know of additional packages if needed.
+I want to install them using Anaconda prompt, so write the command accordingly if required.
+Step three write Python script that will help me understand the data better.
+Step four Write Python script to clean the data wherever required.
+And step five Write Python script to import required libraries and create five charts to represent five
+KPIs.
+Create the charts.
+I am mentioning bar chart, line chart, scatter plot, pie chart and doughnut chart.
+Step six.
+Write the Python script to export the PDF report consisting of the charts.
+Step seven tell me about insights and give recommendations, if any.
