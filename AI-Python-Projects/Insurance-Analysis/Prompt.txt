@@ -1,0 +1,16 @@
+Think of yourself to be a data analyst and you are using Jupyter Notebook and you need to execute a
+Python project as instructed in the below mentioned steps.
+Create separate answer blocks for each step.
+Step one write Python script to create an insurance related data frame, and suggest KPIs and metrics
+that can be represented using charts and this particular data set.
+Step two also write Python script to install packages required for this project.
+We have already installed NumPy, pandas, matplotlib and Seaborn.
+Let us know of additional packages if needed to be installed.
+I want to install them first of all using Anaconda prompt, so write the command accordingly that can
+be used on Anaconda prompt.
+Step three write Python script that will help me understand the data better.
+Step four Write Python script to clean the data wherever needed.
+Step five Write Python script to import required libraries and create charts to represent the KPIs.
+Step six Write Python script to export the PDF report consisting of charts and.
+Step seven.
+Tell me about insights and give recommendations if any.
