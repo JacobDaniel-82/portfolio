@@ -1,14 +1,28 @@
 # 📁 Portfolio
 
-Hi, I’m Jacob Daniel R — a Computer Science student passionate about uncovering insights and solving problems through data. This portfolio showcases my journey of learning and building in the fields of **Data Science and Artificial Intelligence**, with each project contributing to a strong, practical foundation for the future.
+Hi, I’m Jacob Daniel R — a Computer Science graduate specializing in **Data Analytics and Business Intelligence**. This portfolio highlights hands-on projects involving SQL, Python, Power BI, and cloud platforms, focusing on solving real business problems through structured data analysis and visualization.
+
+The work showcased here reflects practical analytics workflows, AI-assisted analysis, and production-oriented BI practices.
 
 ---
 
 ## 🎯 About Me
 
-- 💻 B.E. in Computer Science & Engineering 
-- 📊 Currently focusing on **Data Analytics** 
-- 📚 Constant learner | Course-driven | Project-first mindset  
+- 💻 B.E. in Computer Science & Engineering  
+- 📊 Focused on **Data Analytics and Business Intelligence**  
+- 🛠️ Hands-on with SQL, Python, Power BI, and cloud-based analytics  
+- 🚀 Project-driven learner with real-world analytics workflows  
+
+---
+
+## 🛠️ Skills Snapshot
+
+- **Data & BI:** SQL, Power BI, DAX, Power Query  
+- **Programming:** Python (pandas, NumPy, matplotlib, seaborn)  
+- **Databases:** SQL Server, MySQL  
+- **Cloud & Platforms:** Azure (concepts), GCP BigQuery (concepts), Snowflake  
+- **AI-Assisted Analytics:** Prompt engineering, LLM-assisted SQL & DAX  
+- **Tools:** Jupyter Notebook, Tableau, Git, Power BI Service  
 
 ---
 
