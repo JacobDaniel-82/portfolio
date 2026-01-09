@@ -64,6 +64,22 @@ A data analysis project exploring app data from the Google Play Store to uncover
 
 [🔗 View Project Folder](./App-Store-Data-Analysis)
 
+## 🏦 AI Banking Analysis (AI-Assisted Analytics)
+
+**Tools Used:** SQL Server, SQL, Power BI, DAX, AI Tools (LLMs), Prompt Engineering  
+
+**Project Overview:**  
+An AI-assisted analytics project demonstrating how large language models can support the end-to-end data analytics workflow. The project focuses on prompt engineering, KPI design, SQL-based data cleaning, and Power BI visualization using a synthetic banking dataset.
+
+**Key Features:**  
+- AI-assisted dataset generation using SQL  
+- Data cleaning and transformation in SQL Server  
+- KPI definition through structured prompts  
+- DAX measure creation with AI guidance and validation  
+- Power BI dashboard for banking performance analysis  
+
+[🔗 View Project Folder](./AI-Banking-Analysis)
+
 ### 🎥 British Airways Review Analysis  
 
 **Tools Used:** Tableau
@@ -130,6 +146,43 @@ A Power BI dashboard that visualizes key sales metrics like total sales, profit,
 - Multi-page breakdowns for in-depth insights
 
 [🔗 View Project Folder](./Sales-Performance-Analysis)
+
+## 🧠 AI Python Projects
+
+A collection of AI-assisted Python data analysis mini-projects built from a Data Analyst’s perspective using Jupyter Notebook. Each project follows a structured analytics workflow with AI used as an analytical assistant.
+
+### 📊 Banking Analysis
+
+**Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, YData Profiling, ReportLab, Jupyter Notebook, AI Tools  
+
+**Project Overview:**  
+An end-to-end Python-based banking analysis project covering data creation, cleaning, KPI identification, visualization, and automated PDF reporting using AI-assisted prompts.
+
+**Key Features:**  
+- AI-generated banking dataset  
+- Data cleaning and exploratory analysis  
+- KPI-driven visualizations (bar, line, scatter, pie, doughnut)  
+- Automated PDF report generation  
+- Business insights and recommendations  
+
+[🔗 View Project Folder](./AI-Python-Projects)
+
+
+### 🏠 Insurance Analysis
+
+**Tools Used:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, AI Tools  
+
+**Project Overview:**  
+A Python-based insurance analytics project analyzing customer behavior, claims, and policy performance using AI-assisted analytical workflows and visualization techniques.
+
+**Key Features:**  
+- Synthetic insurance dataset generation  
+- Data cleaning and preprocessing  
+- KPI identification and visualization  
+- Claim frequency and risk analysis  
+- Insight generation and recommendations  
+
+[🔗 View Project Folder](./AI-Python-Projects)
 
 ---
 
