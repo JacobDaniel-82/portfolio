@@ -12,6 +12,14 @@ Hi, I’m Jacob Daniel R — a Computer Science student passionate about uncover
 
 ---
 
+## 📄 Resume
+
+You can view or download my resume here:
+
+🔗 [View Resume (PDF)](Resume/Jacob_Daniel_Resume.pdf)
+
+---
+
 ## 📂 Featured Project
 
 ### 🍎 Apple Freshness Detection  
