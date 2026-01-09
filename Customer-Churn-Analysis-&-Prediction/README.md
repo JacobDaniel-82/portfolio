@@ -1,5 +1,7 @@
 # 📊 Customer Churn Analysis & Prediction
 
+PBI service : https://app.powerbi.com/links/CP2d2ad2UK?ctid=c01ee50b-18d6-45ed-bb1d-88da83e03802&pbi_source=linkShare
+
 ### Tools Used: Power BI | SQL | Python (Machine Learning)
 
 ---
