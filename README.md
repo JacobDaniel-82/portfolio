@@ -50,6 +50,36 @@ An end-to-end data project that identifies customers most likely to churn using 
 
 [🔗 View Project Folder](./Customer-Churn-Analysis-&-Prediction)
 
+### 💳 Loan Default Analysis
+
+**Tools Used:** Power BI, Dataflow Gateway, Power Query Editor, DAX  
+**Project Overview:**  
+A Power BI project analyzing loan default behavior to identify risk patterns, applicant characteristics, and financial trends. The dashboard supports credit risk analysis through interactive visuals and KPIs.
+
+**Key Features:**  
+- Data ingestion via Dataflow Gateway  
+- Data cleaning using Power Query  
+- Multi-page Power BI dashboard  
+- YTD and YoY risk metrics  
+- Applicant demographic and financial analysis  
+
+[🔗 View Project Folder](./Loan-Default-Analysis)
+
+### 🔄 Test to Production Database Migration (Power BI)
+
+**Tools Used:** SQL Server, MySQL, SQL, Power BI  
+**Project Overview:**  
+A real-world BI deployment project demonstrating how Power BI reports can be migrated from test to production environments and across different DBMS platforms without rebuilding visuals.
+
+**Key Features:**  
+- Test vs production environment setup  
+- SQL Server to MySQL DBMS migration  
+- Power BI data source switching  
+- Validation of visuals after migration  
+- Enterprise-level BI workflow simulation  
+
+[🔗 View Project Folder](./Test-to-Production-DB-Migration)
+
 ### 📱 App Store Data Analysis  
 
 **Tools Used:** Python (pandas, matplotlib, seaborn)  
@@ -64,10 +94,9 @@ A data analysis project exploring app data from the Google Play Store to uncover
 
 [🔗 View Project Folder](./App-Store-Data-Analysis)
 
-## 🏦 AI Banking Analysis (AI-Assisted Analytics)
+### 🏦 AI Banking Analysis (AI-Assisted Analytics)
 
 **Tools Used:** SQL Server, SQL, Power BI, DAX, AI Tools (LLMs), Prompt Engineering  
-
 **Project Overview:**  
 An AI-assisted analytics project demonstrating how large language models can support the end-to-end data analytics workflow. The project focuses on prompt engineering, KPI design, SQL-based data cleaning, and Power BI visualization using a synthetic banking dataset.
 
@@ -93,11 +122,42 @@ A data visualization project analyzing over 10,000 customer reviews of British A
 
 [🔗 View Project Folder](./British-Airways-Review-Analysis)
 
+### ☁️ GCP Housing Analysis
+
+**Tools Used:** Google Cloud Platform (BigQuery), SQL (Conceptual), Power BI  
+**Project Overview:**  
+A cloud analytics project focused on querying housing market data from Google BigQuery and visualizing insights in Power BI. The project emphasizes cloud-based data integration and BI workflows.
+
+**Key Features:**  
+- BigQuery data exploration concepts  
+- GCP to Power BI integration  
+- Housing market and sales analysis  
+- Price and demand trend visualization  
+- Cloud-based BI pipeline understanding  
+
+[🔗 View Project Folder](./GCP-Housing-Analysis)
+
+### ☁️ Azure Menswear Analysis
+
+**Tools Used:** Microsoft Azure, Power BI, SQL (Conceptual)  
+**Project Overview:**  
+A cloud-focused BI project exploring how Microsoft Azure can act as a data source and backend for analytics workflows. The project demonstrates Azure-to-Power BI integration using a menswear sales dataset.
+
+**Key Features:**  
+- Understanding Azure servers and databases  
+- Connecting Azure-hosted data to Power BI  
+- Sales and product-level analysis  
+- Cloud-to-BI integration workflow  
+- Retail-focused dashboard design  
+
+[🔗 View Project Folder](./Azure-Menswear-Analysis)
+
 ### 🎬 Netflix Content Analysis
 
 **Tools Used:** SQL
 **Project Overview:**
 A SQL-based analysis of Netflix’s content catalog to explore trends across genres, release years, and content types. The project focuses on uncovering patterns in movie vs. TV show distribution, country-wise trends, and identifying the most frequent directors and actors.
+
 **Key Features:**
 - SQL queries for deep data exploration and filtering
 - Analysis of movie vs. TV show proportions
@@ -147,14 +207,13 @@ A Power BI dashboard that visualizes key sales metrics like total sales, profit,
 
 [🔗 View Project Folder](./Sales-Performance-Analysis)
 
-## 🧠 AI Python Projects
+### 🧠 AI Python Projects
 
 A collection of AI-assisted Python data analysis mini-projects built from a Data Analyst’s perspective using Jupyter Notebook. Each project follows a structured analytics workflow with AI used as an analytical assistant.
 
-### 📊 Banking Analysis
+**📊 Banking Analysis**
 
 **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, YData Profiling, ReportLab, Jupyter Notebook, AI Tools  
-
 **Project Overview:**  
 An end-to-end Python-based banking analysis project covering data creation, cleaning, KPI identification, visualization, and automated PDF reporting using AI-assisted prompts.
 
@@ -168,10 +227,9 @@ An end-to-end Python-based banking analysis project covering data creation, clea
 [🔗 View Project Folder](./AI-Python-Projects)
 
 
-### 🏠 Insurance Analysis
+**🏠 Insurance Analysis**
 
 **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, AI Tools  
-
 **Project Overview:**  
 A Python-based insurance analytics project analyzing customer behavior, claims, and policy performance using AI-assisted analytical workflows and visualization techniques.
 
