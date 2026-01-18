@@ -30,7 +30,7 @@ The work showcased here reflects practical analytics workflows, AI-assisted anal
 
 You can view or download my resume here:
 
-🔗 [View Resume (PDF)](Resume/Jacob_Daniel_Resume.pdf)
+🔗 [View Resume (PDF)](Resume/Resume_Jacob_online.pdf)
 
 ---
 
