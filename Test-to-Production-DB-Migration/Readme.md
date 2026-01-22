@@ -74,11 +74,6 @@ To simulate an organizational DBMS change:
 
 ---
 
-## Project Status
-✅ Completed
-
----
-
 ## How to Use
 1. Review SQL scripts and database structure
 2. Open the Power BI report
