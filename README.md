@@ -36,6 +36,18 @@ You can view or download my resume here:
 
 ## 📂 Featured Project
 
+### 🏗️ End-to-End Data Warehouse (Medallion Architecture)
+
+**Tools Used:** SQL Server (T-SQL), Star Schema, Medallion Architecture, Draw.io, Git  
+**Project Overview:** A production-grade Data Warehousing project that integrates disparate CRM and ERP data into a centralized reporting system. The project implements a **Medallion Architecture** (Bronze, Silver, Gold) to ensure data lineage, integrity, and a "Single Version of Truth."
+
+**Key Features:** - **Automated ETL Pipeline:** Built modular stored procedures for data extraction and transformation.
+- **Data Governance:** Implemented strict naming conventions and a comprehensive Data Catalog.
+- **Data Quality Framework:** Designed a two-phase testing suite for Discovery and Verification.
+- **Star Schema Modeling:** Created optimized Gold-layer views (Fact & Dimensions) for BI tools.
+
+[🔗 View Project Repository](https://github.com/JacobDaniel-82/sql-data-warehouse-project.git)
+
 ### 🍎 Apple Freshness Detection  
 
 **Tools Used:** TensorFlow, Keras, MobileNetV2  
