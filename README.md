@@ -26,14 +26,6 @@ The work showcased here reflects practical analytics workflows, AI-assisted anal
 
 ---
 
-## 📄 Resume
-
-You can view or download my resume here:
-
-🔗 [View Resume (PDF)](Resume/Resume_Jacob_online.pdf)
-
----
-
 ## 📂 Featured Project
 
 ### 🏗️ End-to-End Data Warehouse (Medallion Architecture)
