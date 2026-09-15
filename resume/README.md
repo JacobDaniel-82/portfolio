@@ -6,7 +6,7 @@ This folder contains my resumes tailored to different career paths.
 
 Focused on **Data Engineering, Cloud Data Platforms, ETL/ELT, Data Warehousing, Data Modeling, and Pipeline Development**.
 
-🔗 **[View Data Engineer Resume](./Jacob Daniel R_resume_unique_view.pdf)**
+🔗 **[View Data Engineer Resume](./Jacob_Daniel_R_Data_Engineer_Resume.pdf)**
 
 ---
 
